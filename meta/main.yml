@@ -12,6 +12,6 @@ galaxy_info:
     - name: Debian
       versions:
         - all
-  galaxy_tags: ['systemd', 'mount']
+  galaxy_tags: ["systemd", "mount"]
 
 dependencies: []
